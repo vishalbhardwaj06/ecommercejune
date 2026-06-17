@@ -3,6 +3,7 @@ function Test(){
     <h1>Hii This is home</h1>
   )
 }
+export default Test
 
 
 export function User(){
@@ -19,5 +20,3 @@ export function Soul(){
 
 
 export const xyz = "i am XYZ"
-
-export default Test
