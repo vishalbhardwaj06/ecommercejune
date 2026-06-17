@@ -8,7 +8,7 @@ export default Test
 
 export function User(){
   return(
-    <div>Hii I am user hdh</div>
+    <div>Hii I am user Rohit</div>
   )
 }
 
